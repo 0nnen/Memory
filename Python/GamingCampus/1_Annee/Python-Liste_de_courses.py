@@ -87,7 +87,6 @@ def show_list():
     print("\n\n")
 
 
-
 #En cas d'erreur de saisie:
 while True:
     try:
