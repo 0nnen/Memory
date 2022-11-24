@@ -1,0 +1,14 @@
+                             ~ PANIER ~                            
+
+            --------------------------------------------
+
+            
+                  Crepe Bonanza                    - 25.99€
+             Crepe Confiture de Pomme              - 3.99€
+              Crepe Jambon & Fromage               - 16.99€
+                Crepe Salade Cesar                 - 48.99€
+                  Crepe BrocoTom                   - 3.99€
+
+           ==============================================
+
+           Total :                                  99.95
